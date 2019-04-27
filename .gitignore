@@ -1,0 +1,5 @@
+dataset/*.pkl
+result
+save
+save_embed
+__pychache__
